@@ -119,7 +119,6 @@ int main()
                       temp= first->next;
                       tf=first;
                     
-                    
                      while(1)
                      {
                          if(ubookid==temp->bookid)

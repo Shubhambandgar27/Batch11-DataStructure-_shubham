@@ -22,8 +22,6 @@ int main()
     Books *fptr;
     Books *temp;
 
-
-
    while(1)
     {
         cout<<"\n 1.Add Book.";
