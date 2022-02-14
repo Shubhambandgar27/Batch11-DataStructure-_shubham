@@ -22,7 +22,6 @@ class player
     {
         cout<<"\n"<<playerid<<"\t "<<name;
     }
-
 };
 player *current;
 player *first=NULL;
@@ -65,7 +64,7 @@ void addNodeAfter()
 {
     player *x=NULL, *x1=NULL,*temp=first;
     int uplayer_id;
-    
+
     cout<<"\n Enter player Id After which you want to add new player:";
     cin>>uplayer_id;
 

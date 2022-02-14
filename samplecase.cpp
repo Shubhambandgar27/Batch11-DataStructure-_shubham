@@ -79,7 +79,6 @@ int main()
               }
                   break;
             case 2:
-                 
                     if(first==NULL)
                       {
                         break;}

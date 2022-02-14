@@ -57,8 +57,10 @@ int main()
             case 2:
                  
                     if(first==NULL)
-                      {cout<<"\n List is Empty !";
-                        break;}
+                      {
+                        cout<<"\n List is Empty !";
+                        break;
+                        }
                     else
                       { 
                         temp=first;
