@@ -55,7 +55,7 @@ int main()
                       cin>>current->aname;
                   break;
             case 2:
-                 
+                
                     if(first==NULL)
                       {
                         cout<<"\n List is Empty !";

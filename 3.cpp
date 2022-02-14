@@ -9,7 +9,7 @@ class player
     char name[20];
 
     player *next;
-
+    
     void addplayer()
     {
         cout<<"\n Enter player ID :";
